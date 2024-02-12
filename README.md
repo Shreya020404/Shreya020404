@@ -62,7 +62,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 <hr style="width:50%;text-align:left;margin-left:0">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreya020404&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya020404&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <hr style="width:50%;text-align:left;margin-left:0">
