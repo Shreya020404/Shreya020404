@@ -61,9 +61,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shreya020404&theme=dark" alt="GitHub Streak" /></a>
 </div>
 <hr style="width:50%;text-align:left;margin-left:0">
-<div>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya020404&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats" alt="GitHub Streak" /></a>
-</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreya020404&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <hr style="width:50%;text-align:left;margin-left:0">
 
 ### :writing_hand: Blog Posts :
